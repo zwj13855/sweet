@@ -1,0 +1,21 @@
+#ignore Library
+Library/
+#ignore Temp 
+Temp/
+
+#ignore Builds
+Builds/
+*.exe
+*.apk
+*.xcodeproj/
+*.xcworkspace/
+
+#ignore UserSettings
+UserSettings/
+
+#ignore log
+*.log
+*.txt
+
+#ingnore .vs
+*.vs

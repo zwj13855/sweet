@@ -1,0 +1,22 @@
+{
+    "displayName": "Stark SDK - Unity Tools",
+    "name": "com.bytedance.starksdk.unitytools",
+    "version": "3.0.6",
+    "scripts": {
+        "postinstall": "",
+        "preuninstall": ""
+    },
+    "versions": [],
+    "state": "normal",
+    "description": "Stark SDK Unity Tools\\n用于构建Unity Apk、WebGL以及发布游戏到抖音平台的工具",
+    "keywords": [],
+    "category": "Libraries",
+    "links": [
+        {
+            "label": "View Document",
+            "url": "https://bytedance.feishu.cn/docs/doccnGEsOm0yquys4iAgtVi7nKh#"
+        }
+    ],
+        "unitySinceBuild": "2021.3",
+    "unityUntilBuild": "*"
+}
